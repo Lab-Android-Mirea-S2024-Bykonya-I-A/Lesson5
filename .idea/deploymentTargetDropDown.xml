@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="app.accelerometer">
+        <State />
+      </entry>
+      <entry key="app.audiorecord">
+        <State />
+      </entry>
+      <entry key="app.camera">
+        <State />
+      </entry>
+      <entry key="app.mireaproject">
+        <State />
+      </entry>
+      <entry key="app.task_1_1">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
